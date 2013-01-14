@@ -56,6 +56,9 @@ alias lscleanup="/System/Library/Frameworks/CoreServices.framework/Frameworks/La
 # Recursively delete `.DS_Store` files
 alias cleanup="find . -type f -name '*.DS_Store' -ls -delete"
 
+# SSH EC2 box
+alias awsec2='ssh -i ~/Dropbox/Dev/aws/ec2.pem'
+
 # Refresh brew
 function maint_brew() {
     brew update
