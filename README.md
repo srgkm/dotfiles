@@ -17,6 +17,7 @@
 [Sublime Text 2](http://www.sublimetext.com/dev),
 [Transmission](http://www.transmissionbt.com/),
 [Vagrant](http://downloads.vagrantup.com/),
+[VirtualBox](https://www.virtualbox.org/wiki/Downloads),
 [VLC](http://www.videolan.org/vlc/)
 
 
