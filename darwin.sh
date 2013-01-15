@@ -91,12 +91,6 @@ defaults write com.apple.dock show-process-indicators -bool true
 defaults write com.apple.dock dashboard-in-overlay -bool true
 
 
-# TERMINAL ####################################################################
-
-# Only use UTF-8 in Terminal.app
-defaults write com.apple.terminal StringEncodings -array 4
-
-
 # SCREENCAPTURE ###############################################################
 
 # Save screenshots to the desktop
