@@ -7,6 +7,7 @@
 
 
 ## Get apps
+[AppZapper](http://www.appzapper.com/),
 [Dropbox](https://www.dropbox.com/downloading),
 [Flux](http://stereopsis.com/flux/),
 [Google Chrome Developer Release](http://www.google.com/chrome/intl/en/eula_dev.html),
